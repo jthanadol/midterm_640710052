@@ -86,6 +86,7 @@ class _HomePageState extends State<HomePage> {
               ),
               Spacer(),
               _buildButtonPanel(),
+              Spacer(),
             ],
           ),
         ),
